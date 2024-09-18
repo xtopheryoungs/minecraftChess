@@ -1,5 +1,5 @@
 {
-    "name": "gamecodeContent",
+    "name": "chess",
     "version": "8.0.2",
     "dependencies": {
         "core": "*",
